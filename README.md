@@ -52,6 +52,12 @@ Story: "As a imaging user at OHSU, I need help to create a cell profiler workflo
 Story: "As a imaging user at OHSU, I need help to publish my cell profiler pipeline to Galaxy"
 Context: "TODO"
 
+Add a genomic browser to CCC
+Can we add one of these js visualizations to our workflow? 
+* https://github.com/opencb/genome-maps
+* http://www.biodalliance.org/embed.html
+* http://wtsi-web.github.io/Genoverse/
+
 
 
 ## 3. General tooling
